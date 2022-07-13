@@ -2,7 +2,7 @@
 <div align="center">
 <h1>Site Blocker</h1>
 </div>
-### Getting Started
+## Getting Started
 Run the following command to get started.
 
 ```
