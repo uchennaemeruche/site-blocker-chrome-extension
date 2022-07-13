@@ -13,3 +13,5 @@ and then
 ```
 npm run dev
 ```
+
+you can now upload the dist folder as your google chrome's upacked extension
